@@ -1,1 +1,1 @@
-# ERTEgetColorMix
+#getColorMix
